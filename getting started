@@ -1,0 +1,50 @@
+!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Animal Photography</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300%7CCinzel+Decorative:700"
+      rel="stylesheet" />
+      <link rel = "stylesheet" href = "style.css"/>
+  </head>
+
+  <body>
+    <header>
+    <h1>Animal Photography <img spc = "dove.png" width=""150" height = "150"> </h1>
+    <p> By: Rivan</p>
+    <nav>
+    <ul>
+    <li><a href = "#"> Get started</a></li>
+     </ul>
+    </nav>
+    </header>
+    <main>
+        <article>
+            <h2>Welcome</h2>
+
+    <p>
+      To get started on Animal Photography all you need is a camera and a few picture frames.
+      Buy a camera and then start taking pictures! Take pictures of cool animals so you can
+      hang the pictures up at your house
+    </p>
+
+    <p>
+      So don't waste time! Get what you need, then turn off that electronic and
+      get out into the great outdoors to take photos of animals!
+    </p>
+</article>
+    <aside>
+
+    <h2>Favorite Photos</h2>
+    <aside>
+       <img src="">
+       <img src="">
+       <img src="">
+       <img src="">
+       <img src="">
+
+    </aside>
+</main>
+</body>
+</html>
